@@ -1,6 +1,8 @@
 # kotlinglenz
 A glenz vector in kotlin
 
+![kotlinglenz](https://user-images.githubusercontent.com/902911/223081912-6acf336c-fb81-4597-bbad-1a7e52f22433.jpg)
+
 This is a little effect made with Kotlin and OpenGL ES. It is based on the Kotlin OpenGL tuturial but with some extra stuff added:
 
 - Some matrix multiplications for rotation and scaling.
