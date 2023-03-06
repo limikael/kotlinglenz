@@ -14,3 +14,9 @@ https://www.loom.com/share/de1565e19a294865882eee65e6b546f0
 And here is the app for download from testapp.io:
 
 https://portal.testapp.io/apps/install/JbQwxB53QwPAz
+
+Ref:
+
+It is this kind of thing... :)
+
+https://democyclopedia.wordpress.com/2015/11/15/g-comme-glenz-vector/
