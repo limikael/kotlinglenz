@@ -6,3 +6,11 @@ This is a little effect made with Kotlin and OpenGL ES. It is based on the Kotli
 - Some matrix multiplications for rotation and scaling.
 - Vertex shader that can manipulate individual vertices.
 - Some creative use of face culling and blending.
+
+Here is a loom recording:
+
+https://www.loom.com/share/de1565e19a294865882eee65e6b546f0
+
+And here is the app for download from testapp.io:
+
+https://portal.testapp.io/apps/install/JbQwxB53QwPAz
