@@ -7,9 +7,9 @@ plugins {
 
 task launch(type: Exec) {
 	dependsOn ':app:installDebug'
-	commandLine 'adb','shell','am','start','-n','com.example.myapplication/com.example.myapplication.MainActivity'
+	commandLine 'adb','shell','am','start','-n','dev.wayan.glenz/dev.wayan.glenz.MainActivity'
 }
 
 task stop(type: Exec) {
-	commandLine 'adb','shell','am','force-stop','com.example.myapplication'
+	commandLine 'adb','shell','am','force-stop','dev.wayan.glenz'
 }
